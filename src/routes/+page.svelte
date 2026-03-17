@@ -230,7 +230,7 @@
         <span class="footer-tagline">Tools that never see your data.</span>
       </div>
       <div class="footer-links">
-        <a href="https://github.com/yourusername" target="_blank" rel="noopener"
+        <a href="https://github.com/Griffin2" target="_blank" rel="noopener"
           >GitHub</a
         >
         <a href="#tools">Tools</a>
